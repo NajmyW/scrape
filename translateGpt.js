@@ -1,7 +1,4 @@
-/*
-Author: NajmyW
-RestApi: anabot.my.id
-*/
+
 function translateAI(word, from, to) {
     const url = 'https://api.translasion.com/enhance/dictionary';
     const headers = {
