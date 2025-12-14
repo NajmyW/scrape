@@ -1,4 +1,8 @@
-
+/*
+Author: anabot.my.id 
+channel: https://whatsapp.com/channel/0029VaEo7EqH5JM74UhNHi2c
+bebas bre mau di hapus atau ga authornya...
+*/
 function translateAI(word, from, to) {
     const url = 'https://api.translasion.com/enhance/dictionary';
     const headers = {
