@@ -1,3 +1,8 @@
+/*
+Author: anabot.my.id 
+channel: https://whatsapp.com/channel/0029VaEo7EqH5JM74UhNHi2c
+bebas bre mau di hapus atau ga authornya...
+*/
 const axios = require("axios");
 const https = require("https");
 const httpsAgent = new https.Agent({
